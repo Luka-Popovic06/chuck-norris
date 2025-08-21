@@ -26,3 +26,21 @@
 #joke-container {
   height: 200px;
 }
+#loadJokeBtn {
+  background-color: transparent;
+  border: 1px solid limegreen;
+  color: limegreen;
+  cursor: pointer;
+  font-size: 1.6rem;
+  padding: 10px;
+  text-transform: uppercase;
+  margin: 35px auto;
+  display: block;
+}
+#chuckNorrisImg {
+  width: 300px;
+  position: absolute;
+  bottom: 0;
+  right: 45%;
+  left: 38%;
+}
